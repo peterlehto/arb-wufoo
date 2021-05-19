@@ -39,6 +39,7 @@
 
 .redesigned-theme-2018 .wufoo .wufoo-dropdown-control {
   height: 48px !important;
+}
 
 .redesigned-theme-2018 .wufoo select.select {
   width: 100% !important;
@@ -70,7 +71,7 @@
 .buttons .marker {
   width: auto !important;
 }
-  
+
 .redesigned-theme-2018 input.btTxt {
   background-color: #ea4363 !important;
   color: #fff !important;
