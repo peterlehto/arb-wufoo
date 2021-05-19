@@ -5,6 +5,10 @@
   margin: 0 auto !important; 
 }
 
+.wufoo li.date span {
+  width: 31% !important;
+}
+
 .redesigned-theme-2018 .wufoo li span {
     width: 48% !important;
     margin: 0 2% 0 0 !important;
@@ -40,4 +44,7 @@ box-shadow: 0px 0px 0px 2px #0c0f3d !important;
 .wufoo li.focused {
   background: none !important;
 }
-  
+
+.buttons .marker {
+  width: auto !important
+}
