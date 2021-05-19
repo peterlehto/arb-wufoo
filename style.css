@@ -23,12 +23,16 @@
 }
 
 .redesigned-theme-2018 .wufoo li.date span {
-  width: 31% !important;
+  width: 27% !important;
+}
+
+.redesigned-theme-2018 .wufoo li.date #cal5 {
+  width: 10% !important;
 }
 
 .redesigned-theme-2018 .wufoo input.text {
   width: 100% !important;
-  border: 1px solid #e5e7eb !important;
+  border: 1px solid #ccc !important;
   padding: 15px 14px 13px !important;
   border-radius: 4px !important;
 }
