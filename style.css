@@ -1,5 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
 
+body {
+  font-family: Inter,sans-serif !important;
+}
+
+.redesigned-theme-2018 .wufoo .info div {
+  font-size: 20px !important;
+}
+
+.redesigned-theme-2018 .wufoo .paging-context {
+  margin-bottom: 25px !important;
+}
+
 .wufoo li {
   width: 70% !important;
   margin: 0 auto !important; 
