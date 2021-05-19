@@ -10,6 +10,8 @@
 .redesigned-theme-2018 .wufoo input.text {
   width: 100% !important;
   border: 1px solid #e5e7eb !important;
+  padding: 15px 14px 13px !important;
+  border-radius: 4px !important;
 }
 
 .redesigned-theme-2018 .wufoo input.text:focus {
