@@ -83,6 +83,14 @@
   background: none !important;
 }
 
+.redesigned-theme-2018 .buttons {
+  width: 70% !important;
+}
+
+@media only screen and (max-width: 580px) {
+    width: 100% !important;
+}
+
 .redesigned-theme-2018 .buttons .marker {
   width: auto !important;
 }
