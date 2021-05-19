@@ -10,3 +10,13 @@
 .redesigned-theme-2018 .wufoo input.text {
   width: 100% !important;
 }
+
+.redesigned-theme-2018 .wufoo label.desc {
+  padding-bottom: 5px !important;
+  font-size: 15px !important;
+  color: #0c0f3d !important;
+}
+
+.redesigned-theme-2018 form span.req {
+  top: 4px !important;
+}
