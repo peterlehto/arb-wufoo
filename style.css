@@ -37,6 +37,10 @@
   border-radius: 4px !important;
 }
 
+.redesigned-theme-2018 .wufoo input.medium+label {
+  width: 100% !important;
+}
+
 .redesigned-theme-2018 .wufoo .wufoo-dropdown-control {
   height: 48px !important;
   width: 100% !important;
