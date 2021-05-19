@@ -17,13 +17,13 @@ body {
   margin: 0 auto !important; 
 }
 
-.wufoo li.date span {
-  width: 31% !important;
-}
-
 .redesigned-theme-2018 .wufoo li span {
     width: 48% !important;
     margin: 0 2% 0 0 !important;
+}
+
+.redesigned-theme-2018 .wufoo li.date span {
+  width: 31% !important;
 }
 
 .redesigned-theme-2018 .wufoo input.text {
