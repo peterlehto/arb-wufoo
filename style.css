@@ -39,9 +39,6 @@
 
 .redesigned-theme-2018 .wufoo .wufoo-dropdown-control {
   height: 48px !important;
-}
-
-.redesigned-theme-2018 .wufoo select.select {
   width: 100% !important;
 }
 
@@ -68,7 +65,7 @@
   background: none !important;
 }
 
-.buttons .marker {
+.redesigned-theme-2018 .buttons .marker {
   width: auto !important;
 }
 
