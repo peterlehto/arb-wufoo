@@ -18,8 +18,8 @@
 }
 
 .redesigned-theme-2018 .wufoo li span {
-    width: 48% !important;
-    margin: 0 2% 0 0 !important;
+  width: 48% !important;
+  margin: 0 2% 0 0 !important;
 }
 
 .redesigned-theme-2018 .wufoo li.date span {
@@ -46,9 +46,8 @@
 
 .redesigned-theme-2018 .wufoo input.text:focus {
   border: 1px solid #0c0f3d !important;
-box-shadow: 0px 0px 0px 2px #0c0f3d !important;
+  box-shadow: 0px 0px 0px 2px #0c0f3d !important;
 }
-
 
 .redesigned-theme-2018 .wufoo label.desc {
   padding-bottom: 5px !important;
@@ -68,7 +67,7 @@ box-shadow: 0px 0px 0px 2px #0c0f3d !important;
   background: none !important;
 }
 
-.redesigned-theme-2018 .buttons .marker {
+.buttons .marker {
   width: auto !important;
 }
   
