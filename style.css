@@ -4,12 +4,19 @@
 }
 
 .redesigned-theme-2018 .wufoo li span {
-    width: 50% !important;
+    width: 48% !important;
 }
 
 .redesigned-theme-2018 .wufoo input.text {
   width: 100% !important;
+  border: 1px solid #e5e7eb !important;
 }
+
+.redesigned-theme-2018 .wufoo input.text:focus {
+  border: 1px solid #0c0f3d !important;
+box-shadow: 0px 0px 0px 2px #0c0f3d !important;
+}
+
 
 .redesigned-theme-2018 .wufoo label.desc {
   padding-bottom: 5px !important;
@@ -20,3 +27,12 @@
 .redesigned-theme-2018 form span.req {
   top: 4px !important;
 }
+
+.span label { 
+  font-size: 12px;
+}
+
+.wufoo li.focused {
+  background: none !important;
+}
+  
