@@ -1,3 +1,5 @@
+/* Coindirect Arbitrage Service - WuFoo From Styling */
+
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
 
 .redesigned-theme-2018 .wufoo {
@@ -7,6 +9,11 @@
 .redesigned-theme-2018 .wufoo .info h2 {
   font-size: 28px !important;
   font-weight: 600 !important;
+}
+
+.redesigned-theme-2018 .wufoo .section h3 {
+  margin-top: 0 !important;
+  text-align: center !important;
 }
 
 .redesigned-theme-2018 .wufoo .info div {
@@ -83,12 +90,22 @@
   background: none !important;
 }
 
+.redesigned-theme-2018 .wufoo .wufoo-file-upload {
+  width: 100% !important;
+}
+
 .redesigned-theme-2018 .buttons {
   width: 70% !important;
 }
 
 @media only screen and (max-width: 580px) {
+  .redesigned-theme-2018 .buttons {
     width: 100% !important;
+  }
+  
+  .redesigned-theme-2018 .wufoo .section h3 {
+    font-size: 18px !important; 
+  }
 }
 
 .redesigned-theme-2018 .buttons .marker {
@@ -100,4 +117,9 @@
   color: #fff !important;
   border-radius: 50px !important;
   border: none !important;
+}
+
+.redesigned-theme-2018 button#previousPageButton {
+  border-radius: 50px !important;
+  border: 1px solid #ea4363 !important;
 }
