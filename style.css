@@ -6,6 +6,13 @@
   font-family: Inter,sans-serif !important;
 }
 
+.redesigned-theme-2018 #logo a,
+.redesigned-theme-2018 .logo a {
+    background-position: 24px 20px !important;
+    background-size: 140px 40px !important;
+    margin-bottom: 0 !important;
+}
+
 .redesigned-theme-2018 .wufoo .info h2 {
   font-size: 28px !important;
   font-weight: 600 !important;
